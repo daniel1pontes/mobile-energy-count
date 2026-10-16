@@ -1,0 +1,10 @@
+.env
+.DS_Store
+
+# Docker
+postgres-data/
+
+# Node.js
+**/node_modules/
+**/dist/
+npm-debug.log*
